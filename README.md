@@ -1,6 +1,6 @@
 # Hi there, I'm Hakan 👋 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Junior+Frontend+Developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=İos+Developer)](https://git.io/typing-svg)
 ## 🛠  Technologies and tools
 <a name="learning-now"></a>
 
