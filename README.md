@@ -1,7 +1,7 @@
 # Hi there, I'm Hakan 👋 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=İOS+Developer)](https://git.io/typing-svg)
-## 🛠  
+##   
 <a name="learning-now"></a>
 
 
