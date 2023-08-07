@@ -8,16 +8,6 @@
 <a name="learning-now"></a>
 
 
-<p align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
-</p>
-
-<div align="center">
-    <img src="https://github.com/vsouza/awesome-ios/blob/master/header.png" alt="Awesome">
-</div>
-
-
-
 ## 📈 Statistics
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinhakan" alt="Hakan-AYDIN" width="15%" /> </p>
