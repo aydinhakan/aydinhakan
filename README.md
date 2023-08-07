@@ -1,4 +1,7 @@
-# Hi there, I'm Hakan 👋 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=What's%20Up?&animation=twinkling&fontSize=40)
+
+
+<h2 align="center">👋 Hello Programmers! I'm Hakan</h1>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=İOS+Developer)](https://git.io/typing-svg)
   
@@ -8,6 +11,12 @@
 <p align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
+
+<div align="center">
+    <img src="https://github.com/vsouza/awesome-ios/blob/master/header.png" alt="Awesome">
+</div>
+
+
 
 ## 📈 Statistics
 
