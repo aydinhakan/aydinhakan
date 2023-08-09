@@ -3,7 +3,7 @@
 
 <h2 align="center">👋 Hello Programmers! I'm Hakan</h1>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=İOS+Developer)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer)](https://git.io/typing-svg)
   
 <a name="learning-now"></a>
 
