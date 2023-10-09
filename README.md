@@ -10,7 +10,7 @@
 
 ## 📈 Statistics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinhakan" alt="Hakan-AYDIN" width="15%" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinhakan" alt="Turan-Hakan-AYDIN" width="15%" /> </p>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=aydinhakan&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
